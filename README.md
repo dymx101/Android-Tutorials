@@ -6,3 +6,6 @@ https://www.youtube.com/watch?v=DMkzIOLppf4&list=PLYKza7DXzDX9BJ0NClYBndTClxb2r_
 
 ### How to add the back button on the Toolbar
 https://stackoverflow.com/questions/26651602/display-back-arrow-on-toolbar
+
+### Change toolbar font
+https://medium.com/livefront/how-to-change-the-toolbar-font-on-android-b1ba87e7e29d
